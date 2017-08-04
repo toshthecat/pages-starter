@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GettiN ABbA BaCK from teh futr
+title: mmm
 quote: "Never half-ass two things. Whole-ass one thing".
 cite: Ron Swanson
 ---
