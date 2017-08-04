@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Getting Started
-quote: "It's always a good idea to demonstrate to your coworkers that you are capable of withstanding a tremendous amount of pain".
+title: GettiN ABbA BaCK from teh futr
+quote: "Never half-ass two things. Whole-ass one thing".
 cite: Ron Swanson
 ---
 
