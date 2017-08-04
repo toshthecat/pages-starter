@@ -1,13 +1,11 @@
 ---
 layout: default
 title: Getting Started
-quote: The essential part of creativity is not being afraid to fail.
-cite: Edwin H. Land
+quote: "It's always a good idea to demonstrate to your coworkers that you are capable of withstanding a tremendous amount of pain".
+cite: Ron Swanson
 ---
 
-This example is just meant to get you started and show you a little of what's
-possible with GitHub Pages. In just 3 simple steps, you will have your own
-website.
+If you aren't going to smash peggy then don't talk to me.
 
 1. [Create a Github account](https://github.com/join)
 2. [Fork this repository](https://github.com/chesshacker/pages-starter/fork)
